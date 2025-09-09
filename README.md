@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Daniel
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Tensorflow
 
 <!---
 Bcalm2day/Bcalm2day is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
